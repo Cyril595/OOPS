@@ -1,0 +1,3 @@
+//types of inheritance
+1.Single Inheritance  2.Multiple Inheritance  3.Multilevel  4.Hierarchial->single base class but many derived class  5.Hybrid combination 
+of many types of inderitance
